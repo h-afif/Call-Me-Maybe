@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Project specific
+data/output/
+.mypy_cache/
+.pytest_cache/
+uv.lock
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
